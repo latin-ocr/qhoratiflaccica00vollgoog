@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiflaccica00vollgoog_0010.png"; bbox 0 0 2400 3968; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 1439 901 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 1439 901 1554">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 1439 901 1554; baseline 0.009 -6"><span class='ocrx_word' id='word_1_1' title='bbox 245 1439 679 1554; x_wconf 80' lang='lat' dir='ltr'>FRIDERIOO</span> <span class='ocrx_word' id='word_1_2' title='bbox 708 1492 718 1510; x_wconf 95' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 747 1442 901 1554; x_wconf 86' lang='lat' dir='ltr'>LEO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 66 1665 1082 1912">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 66 1665 1082 1912">
+     <span class='ocr_line' id='line_1_2' title="bbox 66 1665 1082 1748; baseline -0.001 -15"><span class='ocrx_word' id='word_1_4' title='bbox 66 1669 155 1735; x_wconf 82' lang='lat' dir='ltr'>PER</span> <span class='ocrx_word' id='word_1_5' title='bbox 175 1668 377 1748; x_wconf 72' lang='lat' dir='ltr'>QVLNQVE</span> <span class='ocrx_word' id='word_1_6' title='bbox 398 1705 404 1717; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 424 1665 602 1733; x_wconf 79' lang='lat' dir='ltr'><strong>LVSTRA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 622 1704 628 1715; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 648 1666 801 1732; x_wconf 82' lang='lat' dir='ltr'>ARTEM</span> <span class='ocrx_word' id='word_1_10' title='bbox 826 1704 832 1716; x_wconf 88' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 856 1666 1082 1732; x_wconf 82' lang='lat' dir='ltr'>PROFESSO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 451 1844 693 1912; baseline -0.008 -1"><span class='ocrx_word' id='word_1_12' title='bbox 451 1844 693 1912; x_wconf 78' lang='lat' dir='ltr'>FELICITER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 350 2144 795 2201">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 350 2144 795 2201">
+     <span class='ocr_line' id='line_1_4' title="bbox 350 2144 795 2201; baseline 0.004 -2"><span class='ocrx_word' id='word_1_13' title='bbox 350 2146 428 2199; x_wconf 86' lang='lat' dir='ltr'>XVII</span> <span class='ocrx_word' id='word_1_14' title='bbox 443 2176 449 2187; x_wconf 86' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 465 2146 537 2199; x_wconf 83' lang='lat' dir='ltr'>KAL</span> <span class='ocrx_word' id='word_1_16' title='bbox 553 2178 557 2187; x_wconf 93' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 575 2145 687 2199; x_wconf 84' lang='lat' dir='ltr'>MAIAS</span> <span class='ocrx_word' id='word_1_18' title='bbox 703 2177 707 2186; x_wconf 95' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 724 2144 795 2201; x_wconf 77' lang='lat'>1906</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1204 3968">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1204 3968">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1204 3968; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1204 3968; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
